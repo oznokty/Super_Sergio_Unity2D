@@ -1,2 +1,2 @@
 # Super_Sergio_Unity2D
-Ongoing Unity 2D project.
+Unity2D game project with mobile like controls. 
